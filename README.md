@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **Alaahacs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/alaa-alabdullah-782b761ab/"> Linkedin </a>
 <p align="left">
 </p>
 
